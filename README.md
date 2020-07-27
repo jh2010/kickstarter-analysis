@@ -6,18 +6,23 @@
 The purpose of this challenge is to help Luise understand how Kickstarter campaigns fared in relation to their launch dates and their funding goals.
 ---
 ## Analysis and Challenges
-First, for this analysis,  Then,  After that, I created related chart that visualized the results.
-
 
 ### Analysis of Outcomes Based on Launch Date
-From the Kickstarter_blah.xlsx file I created a pivot table and a chart to help describe the Kickstarter theatre outcomes based on launch date.
+From the excel workbook (Kickstarter_Challenge.xlsx), I created a new column named "Years".  I then used the Excel [YEAR()](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9) function to extract the year from the "Date Created Conversion" column.
+
+
+Then, I created a pivot table that filters based on the "Parent Category" and the "Years". After that I added the "outcomes" to the Columns. Next I added the "Date Created Conversion" to the Rows and added the "Count of outcomes" to the Values.
+
+I also adjusted the filter for the column labels to show "successful", "failed", and "canceled"
+
+After the pivot table was completed, I created a chart to visualise the Kickstarter theatre outcomes based on launch date.
 
 ###### Outcomes Based on Launch Date Chart
 ![image_name](https://github.com/jh2010/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
 
 ### Analysis of Outcomes Based on Goals
-I created an Excel sheet  to analyze outcomes based on goals.
+I created an Excel spreadsheet to analyze outcomes based on goals.
 
 ###### Outcomes vs Goals Chart
 ![image_name](https://github.com/jh2010/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
