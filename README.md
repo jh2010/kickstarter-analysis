@@ -12,17 +12,17 @@ First, for this analysis,  Then,  After that, I created related chart that visua
 ### Analysis of Outcomes Based on Launch Date
 From the Kickstarter_blah.xlsx file I created a pivot table and a chart to help describe the Kickstarter theatre outcomes based on launch date.
 
-##### Outcomes Based on Launch Date Chart
+###### Outcomes Based on Launch Date Chart
 ![image_name](https://github.com/jh2010/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
-
+---
 ### Analysis of Outcomes Based on Goals
 I created an Excel sheet  to analyze outcomes based on goals.
 
-##### Outcomes vs Goals Chart
+###### Outcomes vs Goals Chart
 ![image_name](https://github.com/jh2010/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
-
+---
 ### Challenges and Difficulties Encountered
 I had slight difficulties creating the goal chart. I had trouble formatting the percantages.
 
