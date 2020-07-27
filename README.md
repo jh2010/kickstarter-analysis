@@ -4,7 +4,7 @@
 
 ### Purpose
 The purpose of this challenge is to help Luise understand how Kickstarter campaigns fared in relation to their launch dates and their funding goals.
-
+---
 ## Analysis and Challenges
 First, for this analysis,  Then,  After that, I created related chart that visualized the results.
 
@@ -15,18 +15,18 @@ From the Kickstarter_blah.xlsx file I created a pivot table and a chart to help 
 ###### Outcomes Based on Launch Date Chart
 ![image_name](https://github.com/jh2010/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
----
+
 ### Analysis of Outcomes Based on Goals
 I created an Excel sheet  to analyze outcomes based on goals.
 
 ###### Outcomes vs Goals Chart
 ![image_name](https://github.com/jh2010/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
----
+
 ### Challenges and Difficulties Encountered
 I had slight difficulties creating the goal chart. I had trouble formatting the percantages.
 
-
+---
 
 ## Results
 
